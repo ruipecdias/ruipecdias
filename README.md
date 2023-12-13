@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui Dias</h1>
 <h3 align="center">A junior fullstack developer from Portugal eager to start a tech journey</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.troopl.com/ruipecdias](https://www.troopl.com/ruipecdias)
 
