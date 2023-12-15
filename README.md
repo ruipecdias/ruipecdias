@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui Dias</h1>
 <h3 align="center">A junior fullstack developer from Portugal eager to start a tech journey</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python 🐍**
 
 - 📫 How to reach me **ruipecdias@gmail.com**
 
