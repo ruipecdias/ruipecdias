@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **ruipecdias@gmail.com**
 
-- My latest project: [Path & Roll](https://www.troopl.com/ruipecdias/path-and-roll) - A web app for helping people with mobility impairment move safely around their neighborhood. [Repository](https://github.com/ruipecdias/path-and-roll)
+- 🚀 My latest project: [Path & Roll](https://www.troopl.com/ruipecdias/path-and-roll) - A web app for helping people with mobility impairment move safely around their neighborhood. [Repository](https://github.com/ruipecdias/PATH-AND-ROLL)
 
-- - 👨‍💻 All of my projects are available at [https://www.troopl.com/ruipecdias](https://www.troopl.com/ruipecdias)
+- 👨‍💻 All of my projects are available at [https://www.troopl.com/ruipecdias](https://www.troopl.com/ruipecdias)
 
 - ⚡ Fun fact **I play saxophone and I'm a LotR nerd**
 
