@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.troopl.com/ruipecdias](https://www.troopl.com/ruipecdias)
 
-- ⚡ Fun fact **I play saxophone and I'm a LotR nerd**
+- ⚡ Fun facts: **I play saxophone and I'm a LotR nerd**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruipecdias&layout=compact)](https://github.com/ruipecdias)
